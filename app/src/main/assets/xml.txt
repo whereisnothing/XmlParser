@@ -1,0 +1,2 @@
+<?xml versiion="1.0" encoding="utf8"?>
+<ps><p name="chenxu">hefei</p><p name="zhangsan">beijing</p></ps>
